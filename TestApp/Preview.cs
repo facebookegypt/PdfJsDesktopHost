@@ -31,5 +31,10 @@ namespace TestApp {
 				webBrowser.Navigate(url);
 			}
 		}
-	}
+
+        private void Preview_Load(object sender, EventArgs e)
+        {
+
+        }
+    }
 }
